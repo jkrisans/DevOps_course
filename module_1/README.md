@@ -1,5 +1,7 @@
 # DevOps_course
+
 LU DevOps course repo
+
 ![logo](muga.png)
 
 Student: *Jānis Krišāns*
